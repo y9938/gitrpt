@@ -1,0 +1,34 @@
+{
+  "description": {
+    "description": "Tool description",
+    "other": "Git activity reporter"
+  },
+  "error_unknown_lang": {
+    "description": "Unknown language error",
+    "other": "Unknown language: {{.Lang}}"
+  },
+  "flag_help": {
+    "description": "Help flag description",
+    "other": "Show help message"
+  },
+  "flag_lang": {
+    "description": "Language flag description",
+    "other": "Language (en, ru)"
+  },
+  "flag_version": {
+    "description": "Version flag description",
+    "other": "Show version"
+  },
+  "language_priority": {
+    "description": "Language priority explanation",
+    "other": "Language priority: 1) --lang flag, 2) GITRPT_LANG env var, 3) default (en)"
+  },
+  "name": {
+    "description": "Tool name",
+    "other": "gitrpt"
+  },
+  "usage": {
+    "description": "Usage syntax",
+    "other": "Usage: {{.Name}} [options]"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "description": {
+    "description": "Tool description",
+    "hash": "sha1-a4a16c1c6188c033ae8e988c0957efc72c0ae4d3",
+    "other": "Генератор отчетов по Git активности"
+  },
+  "error_unknown_lang": {
+    "description": "Unknown language error",
+    "hash": "sha1-a1fd8a428a8c771d3f77b8d1f03a077224abd82c",
+    "other": "Неизвестный язык: {{.Lang}}"
+  },
+  "flag_help": {
+    "description": "Help flag description",
+    "hash": "sha1-c5e61adc7d5c0a381e83a34e7a3d422b53f339d3",
+    "other": "Показать справку"
+  },
+  "flag_lang": {
+    "description": "Language flag description",
+    "hash": "sha1-e1f5050f4a119ea8a8a53bcd186dcf1f92cca5a6",
+    "other": "Язык (en, ru)"
+  },
+  "flag_version": {
+    "description": "Version flag description",
+    "hash": "sha1-b52d4c6fd4dd564ed54f7040e2c2767288c71fbf",
+    "other": "Показать версию"
+  },
+  "language_priority": {
+    "description": "Language priority explanation",
+    "hash": "sha1-6541f947bc8d98df7b4e13762583215187bcabd7",
+    "other": "Приоритет языка: 1) флаг --lang, 2) переменная окружения GITRPT_LANG, 3) по умолчанию (en)"
+  },
+  "name": {
+    "description": "Tool name",
+    "hash": "sha1-60e01a46391c9c420547ce1af66127c564335763",
+    "other": "gitrpt"
+  },
+  "usage": {
+    "description": "Usage syntax",
+    "hash": "sha1-1dde90e33ade49065bd37b555e839754ebcb1eea",
+    "other": "Использование: {{.Name}} [опции]"
+  }
+}
